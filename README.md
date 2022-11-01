@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## ¿Data science and psychology?
+## Data science and psychology?
 
 Yes, I'm a data scientist whose degree was in psychology. 
 
