@@ -4,9 +4,9 @@ Hello! I'm a unique blend of a data scientist with a foundation in psychology, p
 
 ## Quick Facts About Me:
 
-- $4+ Years of Experience:$ Proficient in Python, R, SQL, BigQuery, and machine learning, with a flair for data visualization in Power BI and LookML/Looker.
-- $Impact Through Data:$ I've leveraged my skills to extract meaningful insights from data, driving decisions that impact education, politics, and beyond.
-- $Believer in IT & AI:$ I see technology as the key to advancing our world, with IT and AI at the forefront of shaping our future.
+- __4+ Years of Experience:__ Proficient in Python, R, SQL, BigQuery, and machine learning, with a flair for data visualization in Power BI and LookML/Looker.
+- __Impact Through Data:__ I've leveraged my skills to extract meaningful insights from data, driving decisions that impact education, politics, and beyond.
+- __Believer in IT & AI:__ I see technology as the key to advancing our world, with IT and AI at the forefront of shaping our future.
   
 ## What I Bring:
 - A unique perspective combining data science with psychological insight, enhancing the depth and relevance of data analysis.
