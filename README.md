@@ -1,12 +1,23 @@
-### Hi there 👋
+### 🚀 Data Science & Psychology: Where Analytics Meets Human Behavior
 
-## Data science and psychology?
+Hello! I'm a unique blend of a data scientist with a foundation in psychology, passionate about using data to unravel the complexities of human behavior and societal trends.
 
-Yes, I'm a data scientist whose degree was in psychology. 
+## Quick Facts About Me:
 
-Data scientist with solid knowledge in statistics, machine learning, and programming. I've worked in Python (ETL, ML, DEPLOYMENT), R (ETL, ML, VISUALIZATION), SQL (You know it 🤷🏻‍♂️), Power BI and other statistics specilized programs. 
+- $4+ Years of Experience:$ Proficient in Python, R, SQL, BigQuery, and machine learning, with a flair for data visualization in Power BI and LookML/Looker.
+- $Impact Through Data:$ I've leveraged my skills to extract meaningful insights from data, driving decisions that impact education, politics, and beyond.
+- $Believer in IT & AI:$ I see technology as the key to advancing our world, with IT and AI at the forefront of shaping our future.
+  
+## What I Bring:
+- A unique perspective combining data science with psychological insight, enhancing the depth and relevance of data analysis.
+- Proven expertise in transforming complex data into actionable insights, enabling data-informed strategies across sectors.
+- An eagerness to collaborate and explore new opportunities that leverage my blend of skills to make a tangible difference.
 
-I firmly trust that the future of education, politics, and the world, in general, is IT and AI, and I want to help to make that world.
+##Let's Make a Difference Together
+
+I'm on a mission to use data science and psychology to pave the way for informed, innovative solutions. If you're interested in collaborating or just want to chat about the potential of data and tech, I'm all ears.
+
+Let's dive into the possibilities together! 🌟
 
 <div>
  
@@ -16,17 +27,9 @@ I firmly trust that the future of education, politics, and the world, in general
    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
    <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
  
- ## My Github Stats :trophy: :
-
-<div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bapinedam">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bapinedam" />
-  </a>
-</div>
-  
-
 
 <!--
 https://dev.to/envoy_/150-badges-for-github-pnk#analytics
