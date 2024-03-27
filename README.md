@@ -7,6 +7,8 @@ Hello! I'm a unique blend of a data scientist with a foundation in psychology, p
 - __4+ Years of Experience:__ Proficient in Python, R, SQL, BigQuery, and machine learning, with a flair for data visualization in Power BI and LookML/Looker.
 - __Impact Through Data:__ I've leveraged my skills to extract meaningful insights from data, driving decisions that impact education, politics, and beyond.
 - __Believer in IT & AI:__ I see technology as the key to advancing our world, with IT and AI at the forefront of shaping our future.
+
+- [Portfolio](https://github.com/Bapinedam/Portafolio): I've created some public project that can be of your interest
   
 ## What I Bring:
 - A unique perspective combining data science with psychological insight, enhancing the depth and relevance of data analysis.
